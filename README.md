@@ -12,5 +12,5 @@ We are using the CRISPR sequencing service at [MGH DNA Core](https://dnacore.mgh
 4. Optional but recommended: using [CRISgo](https://github.com/pinbo/CRISgo) or [CRISjs](https://github.com/pinbo/CRISjs) to check indels in bath mode.
 ## Requirement
 1. [bwa](http://bio-bwa.sourceforge.net/bwa.shtml)
-2.  [IGV](http://software.broadinstitute.org/software/igv/)
-3.  [CRISgo](https://github.com/pinbo/CRISgo) or [CRISjs](https://github.com/pinbo/CRISjs)
+2. [IGV](http://software.broadinstitute.org/software/igv/)
+3. [CRISgo](https://github.com/pinbo/CRISgo) or [CRISjs](https://github.com/pinbo/CRISjs)
